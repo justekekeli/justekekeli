@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi there, I'm <span style="color:#22B5E3;">Your Name</span></h1>
+<h1 align="center">👋 Hi there, I'm <span style="color:#22B5E3;">Kékéli</span></h1>
 <p align="center">💻 Data Engineer | Turning data chaos into reliable systems ⚙️</p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-### 🧩 When I engineer data, I rely on...
+### 🧩 As data engineer, I use...
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" />
@@ -30,35 +30,14 @@
 - 🧮 I transform massive data with **PySpark** and **Python**.  
 - 📊 I visualize insights using **Metabase** and **Power BI**.  
 - 🚢 I automate and deploy with **GitLab CI/CD**.  
-- ☕ Fuel: Data + Coffee = Magic.
+- ☕ Fuel: Data + Coffee + Cookies = Magic.
 
 ---
 
-### 🧾 Recent Projects
-- 🌀 **Real-Time ETL Pipeline:** Kafka → PySpark → dbt → PowerBI  
-- 🌉 **Data Migration System:** Airbyte & Talend integration for multi-cloud data sync  
-- 📈 **Analytics Hub:** Centralized dashboards built with Metabase
-
----
-
-### ☕ Support My Work
-If you like what I do, consider buying me a coffee!  
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername">
-    <img src="https://img.shields.io/badge/☕-Buy%20me%20a%20coffee!-ffdd00?logo=buymeacoffee&logoColor=black" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</div>
+### 🧾 Recent Personnal Project
+- <a href="https://github.com/justekekeli/YorBank-Data-Management"> YorBank Data Management</a>
+  - 🌀 **Real-Time + ETL Pipeline:** Live API → Kafka → BigQuery → dbt → PowerBI
+  - 📈 **Batch processing ETL Pipeline:** Postgres → Airbyte → BigQuery → dbt → PowerBI 
 
 ---
 
