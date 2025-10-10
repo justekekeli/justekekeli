@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi there, I'm <span style="color:#22B5E3;">Kékéli</span></h1>
+<h1 align="center">👋 Hi there, I'm <span style="color:#22B5E3;">Kekeli</span></h1>
 <p align="center">💻 Data Engineer | Turning data chaos into reliable systems ⚙️</p>
 ---
 
