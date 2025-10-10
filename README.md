@@ -1,11 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi there, I'm <span style="color:#22B5E3;">Kékéli</span></h1>
 <p align="center">💻 Data Engineer | Turning data chaos into reliable systems ⚙️</p>
-
-<p align="center">
-  <img src="assets/profile.png" width="200" style="border-radius:50%;" alt="Anime-style portrait"/>
-</p>
-
 ---
 
 ### 🧩 As data engineer, I use...
