@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi there, I'm <span style="color:#22B5E3;">Kekeli</span></h1>
-<p align="center">💻 Data Engineer | Turning data chaos into reliable systems ⚙️</p>
+<p align="center">💻 Data Engineer | GCP Certified |Turning data chaos into reliable systems ⚙️</p>
 
 
 ### 🧩 As data engineer, I use...
@@ -20,7 +20,7 @@
 ---
 
 ### 🧠 About Me
-- 🧱 I build scalable **data pipelines** with **Airbyte, dbt, and Talend**.  
+- 🧱 I build scalable **data pipelines** with **Airbyte, dbt, and Talend** or on cloud platform like **GCP**.  
 - ⚡ I design **real-time streaming** systems using **Kafka**.  
 - 🧮 I transform massive data with **PySpark** and **Python**.  
 - 📊 I visualize insights using **Metabase** and **Power BI**.  
