@@ -6,7 +6,7 @@
 ### 🧩 As data engineer, I use...
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Talend-FF6D00?logo=talend&logoColor=white" />
   <img src="https://img.shields.io/badge/Confluent%20Kafka-231F20?logo=apachekafka&logoColor=white" />
