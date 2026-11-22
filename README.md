@@ -72,13 +72,6 @@ I work with **Python, SQL, Kafka, Talend, and GCP**, turning raw data into struc
 
 An end-to-end batch ETL project processing synthetic automobile insurance claims, from data generation to quality validation and analytics.
 
-| Metric | Result |
-|:---|---:|
-| Synthetic claims generated | **5,000** |
-| Validated records | **4,994** |
-| Rejected records | **6** |
-| Automated pytest tests | **10** |
-
 **Key features**
 - Modular Python pipeline with GCS and BigQuery integration
 - Business validation rules and traceable rejection reasons
