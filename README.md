@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Kekeli Afonouvi
+# 👋 Hi, I'm Kekeli AFONOUVI
 
 ### Data Engineer | Python • SQL • Google Cloud Platform
 
